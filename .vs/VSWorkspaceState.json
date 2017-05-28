@@ -1,14 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\android\\app",
-    "\\android\\app\\src",
-    "\\android\\app\\src\\main",
-    "\\android\\app\\src\\main\\java",
-    "\\android\\app\\src\\main\\java\\com",
-    "\\android\\app\\src\\main\\java\\com\\testproj",
-    "\\android\\app\\src\\main\\res",
-    "\\android\\app\\src\\main\\res\\mipmap-hdpi"
+    ""
   ],
   "SelectedNode": "\\index.android.js",
   "PreviewInSolutionExplorer": false
